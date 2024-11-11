@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Michroma&display=swap');
 
 body {
-  background-image: url("/image/017-hh4647.jpg");
+  background-image: url("./image/017-hh4647.jpg");
   background-size: cover;
   font-family: "Electrolize", sans-serif;
 }
